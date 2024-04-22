@@ -1,0 +1,12 @@
+pytest -v -s -n=2 testCases/test_login.py --browser chrome   - Parallel running tests on chrome(2 test, n - number of tests)
+pytest -v -s -n=2 testCases/test_login.py --browser firefox  - Parallel running tests on firefox(2 test, n - number of tests)
+pytest -v -s -n=2 --html=Reports\report.html testCases/test_login.py --browser chrome  - Parallel running tests on chrome with HTML Report(2 test, n - number of tests)
+
+pytest -v -s --html=Reports\reportDDT.html testCases/test_login_ddt.py --browser chrome
+
+pytest -v -s -m "sanity and regression" --html=./Reports/report.html testCases/ --browser chrome  - Specify which test pack to run (run only test which have sanity and regression)
+pytest -v -s -m "sanity or regression" --html=./Reports/report_all.html testCases/ --browser chrome  - Specify which test pack to run (run only test which have sanity and regression)
+pytest -v -s -m "sanity" --html=./Reports/report.html testCases/ --browser chrome - Specify which test pack to run (only sanity)
+pytest -v -s -m "regression" --html=./Reports/report.html testCases/ --browser chrome - Specify which test pack to run (only regression)
+
+From C:\Jenkins run this command to start jenkins -> java -jar jenkins.war --enable-future-java
