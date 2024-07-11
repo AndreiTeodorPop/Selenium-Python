@@ -1,0 +1,4 @@
+docker build -t booting-web .               -> to build the application
+docker run -p 8080:8080 -d booting-web      -> to run the application
+docker ps                                   -> to see the running application
+docker stop 'image-id'                      -> to stop the application

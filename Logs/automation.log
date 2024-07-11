@@ -189,3 +189,39 @@
 23/04/2024 01:10:02 AM: INFO: ***************  TC_SearchCustomerByName_005 Finished  *********** 
 23/04/2024 01:18:07 AM: INFO: ************** Verifying Login test  **************
 23/04/2024 01:18:10 AM: INFO: ************** Login test is passed **************
+23/04/2024 01:49:53 AM: INFO: ************* Test_003_AddCustomer **********
+23/04/2024 01:49:56 AM: INFO: ************* Login successful **********
+23/04/2024 01:49:56 AM: INFO: ******* Starting Add Customer Test **********
+23/04/2024 01:49:59 AM: INFO: ************* Providing customer info **********
+23/04/2024 01:50:09 AM: INFO: ************* Saving customer info **********
+23/04/2024 01:50:09 AM: INFO: ********* Add customer validation started *****************
+23/04/2024 01:50:09 AM: INFO: ********* Add customer Test Passed *********
+23/04/2024 01:50:09 AM: INFO: ******* Ending Add customer test **********
+23/04/2024 01:50:11 AM: INFO: **************** Test_001_Login ****************
+23/04/2024 01:50:11 AM: INFO: ************** Verifying Home Page Title  **************
+23/04/2024 01:50:12 AM: INFO: ************** Home page title test is passed **************
+23/04/2024 01:50:13 AM: INFO: ************** Verifying Login test  **************
+23/04/2024 01:50:17 AM: INFO: ************** Login test is passed **************
+23/04/2024 01:50:18 AM: INFO: *************** Test_002_DDT_Login ***************
+23/04/2024 01:50:18 AM: INFO: ************** Verifying Login DDT test  **************
+23/04/2024 01:50:25 AM: INFO: *** Passed ***
+23/04/2024 01:50:31 AM: INFO: *** Passed ***
+23/04/2024 01:50:37 AM: INFO: *** Passed ***
+23/04/2024 01:50:42 AM: INFO: *** Passed ***
+23/04/2024 01:50:42 AM: INFO: **** Login DDT test passed *****
+23/04/2024 01:50:42 AM: INFO: *************** End of Login DDT Test ***************
+23/04/2024 01:50:42 AM: INFO: ************** Completed TC_LoginDDT_002  **************
+23/04/2024 01:50:43 AM: INFO: ************* SearchCustomerByEmail_004 **********
+23/04/2024 01:50:45 AM: INFO: ************* Login succesful **********
+23/04/2024 01:50:45 AM: INFO: ******* Starting Search Customer By Email **********
+23/04/2024 01:50:46 AM: INFO: ************* searching customer by emailID **********
+23/04/2024 01:50:51 AM: INFO: ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+23/04/2024 01:50:53 AM: INFO: ************* SearchCustomerByName_005 **********
+23/04/2024 01:50:54 AM: INFO: ************* Login successful **********
+23/04/2024 01:50:54 AM: INFO: ******* Starting Search Customer By Name **********
+23/04/2024 01:50:57 AM: INFO: ************* searching customer by Name **********
+23/04/2024 01:51:03 AM: INFO: ***************  TC_SearchCustomerByName_005 Finished  *********** 
+11/07/2024 01:39:08 PM: INFO: **************** Test_001_Login ****************
+11/07/2024 01:39:08 PM: INFO: ************** Verifying Home Page Title  **************
+11/07/2024 01:39:09 PM: INFO: ************** Verifying Login test  **************
+11/07/2024 01:39:18 PM: INFO: ************** Login test is passed **************
